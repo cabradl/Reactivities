@@ -3,4 +3,6 @@ obj
 .vscode
 .DS_Store
 appsettings.json
-*.db
+/node_modules
+/.pnp
+.pnp.js
